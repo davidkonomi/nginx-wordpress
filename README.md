@@ -17,3 +17,5 @@ MYSQL_PASSWORD=your_wordpress_database_password
 Step 3:
 
 If uploading to github, do not forget to edit your .gitignore and include the .env.
+
+The rest will be explained >>>
