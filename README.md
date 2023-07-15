@@ -2,8 +2,10 @@ WORDPRESS-NGINX SETUP
 
 ##
 
-Clone the repository to your local directory of choice
-Replace certbot/your_domain in the docker-compose with a domain of your choice, and do the same thing in the nginx.conf.
+Clone the repository to your local directory of choice,
+
+Replace certbot/your_domain in the docker-compose with a domain of your choice, and do the same thing in the nginx.conf,
+
 docker-compose up -d
 
 ##
